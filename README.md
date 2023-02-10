@@ -6,7 +6,7 @@ Overview
 
 Em 2021, Doja Cat lançou seu álbum Planet Her (2021) e com o a música viral "Kiss Me More" (feat SZA) ganhou o Grammy de Best Pop Duo/Group Performance. As músicas da cantora tem como tema principal relações amorosas.
 
-Meu objetivo é descobrir atráves de seus lyrics qual linguagem do amor define suas canções, por isso, analisarei as letras de todas elas. Nesse projeto também analisarei sobre quem a Doja se refere em suas letras e se ela escreve mais positivamente ou negativamente sobre as relações. 
+Meu objetivo é descobrir através de seus lyrics qual linguagem do amor define suas canções, por isso, analisarei as letras de todas elas. Nesse projeto também analisarei sobre quem a Doja se refere em suas letras e se ela escreve mais positivamente ou negativamente sobre as relações. 
 
 Esse projeto faz parte de um estudo de caso, onde aplico técnicas de Tokenization, Text Preprocessing, Sentiment Analysis.
 
