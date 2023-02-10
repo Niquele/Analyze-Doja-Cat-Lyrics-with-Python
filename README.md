@@ -2,9 +2,19 @@
 
 Analizando letras da Doja Cat com Python
  
-Overview  
- 
-Em 2021, Doja Cat lançou seu álbum Planet Her (2021) e com o a música "Kiss Me More" (feat SZA) ganhou o Grammy de Best Pop Duo/Group Performance. A artista tende a criar muitas faixas com temas amorosos. Meu objetivo é descobrir a linguagem do amor da Doja Cat atráves de suas músicas, por isso, analisarei as letras de todas elas. Nesse projeto também analisarei os sentimentos da artista para mapear sua 'vibe' ao longo de seus álbuns e determinar se a Doja escreve mais positivamente ou negativamente sobre relacionamentos. Esse projeto faz parte de um estudo de caso, onde tento praticar minhas habilidades de análise.
+Overview
 
-Dataset por ASHISH SINGH CHAUHAN: https://www.kaggle.com/datasets/ashish51ngh/doja-cat-lyrics
+Em 2021, Doja Cat lançou seu álbum Planet Her (2021) e com o a música viral "Kiss Me More" (feat SZA) ganhou o Grammy de Best Pop Duo/Group Performance. As músicas da cantora tem como tema principal relações amorosas.
+
+Meu objetivo é descobrir atráves de seus lyrics qual linguagem do amor define suas canções, por isso, analisarei as letras de todas elas. Nesse projeto também analisarei sobre quem a Doja se refere em suas letras e se ela escreve mais positivamente ou negativamente sobre as relações. 
+
+Esse projeto faz parte de um estudo de caso, onde aplico técnicas de Tokenization, Text Preprocessing, Sentiment Analysis.
+
+Datasets:
+Doja Cat Song Lyrics from Kaggle: https://www.kaggle.com/datasets/ashish51ngh/doja-cat-lyrics
+
+Tecnologias utilizadas:
+Python
+Jupyter Notebook
+
 Referência: https://cdd.org.br/noticia/saude-publica/5-linguagens-do-amor/
