@@ -10,6 +10,8 @@ Meu objetivo é descobrir através de seus lyrics qual linguagem do amor define 
 
 Esse projeto faz parte de um estudo de caso, onde aplico técnicas de Tokenization, Text Preprocessing, Sentiment Analysis.
 
+Resultados: https://medium.com/@niquelefiga12/a-linguagem-do-amor-que-define-as-músicas-da-doja-cat-estudo-de-caso-com-python-2cae214eb4ec
+
 Datasets:
 Doja Cat Song Lyrics from Kaggle: https://www.kaggle.com/datasets/ashish51ngh/doja-cat-lyrics
 
