@@ -16,7 +16,6 @@ Datasets:
 Doja Cat Song Lyrics from Kaggle: https://www.kaggle.com/datasets/ashish51ngh/doja-cat-lyrics
 
 Tecnologias utilizadas:
-Python
-Jupyter Notebook
+Python, Jupyter Notebook
 
 Referência: https://cdd.org.br/noticia/saude-publica/5-linguagens-do-amor/
